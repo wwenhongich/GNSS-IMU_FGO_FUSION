@@ -1,0 +1,16 @@
+settings:
+
+  imu_topic: "/mti_g710/imu/data" 
+  gps_topic: "/beiyun/fix"
+
+
+  enable_linkstates: false
+  map_frame_id : "map"
+  base_frame_id: "base_link"
+  path_frame_id: "path"
+  publish_rate: 20
+  pose_topic: "/pose"
+  state_topic: "/state"
+  
+
+
