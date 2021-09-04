@@ -1,0 +1,10 @@
+noise:
+  gyroscope_std: 0.05
+  accelerometer_std: 0.15
+  integration_std: 0
+  gyroscope_bias_std: 0.00001 #0.00349
+  accelerometer_bias_std: 0.0001 #0.049
+  landmark_std: 0.1
+  gps_std: 1 #0.09S
+  average_delta_t: 0.0100395199348279
+
