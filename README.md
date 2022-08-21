@@ -16,6 +16,7 @@
   - [**Run the package**](#run-the-package)
 
 ## System architecture
+   There are still many bugs in this project.
 
 ## Dependency
 
