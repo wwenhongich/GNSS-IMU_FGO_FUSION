@@ -1,4 +1,4 @@
-# GNSS/IMU fusion based on the factor graph
+# GNSS/IMU fusion
 
 **GNSS/IMU fusion based on the factor graph.**
 
@@ -17,10 +17,14 @@
 
 ## System architecture
 
- 
-
 ## Dependency
 
+- [gtsam](https://gtsam.org/get_started/) (Georgia Tech Smoothing and Mapping library)
+  ```
+  sudo add-apt-repository ppa:borglab/gtsam-release-4.0
+  sudo apt update
+  sudo apt install libgtsam-dev libgtsam-unstable-dev
+  ```
 
 ## Install
 
