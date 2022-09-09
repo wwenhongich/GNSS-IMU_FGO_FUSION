@@ -10,6 +10,8 @@
   - [**Package dependency**](#dependency)
 
   - [**Package install**](#install)
+  
+  - [**Gazebo simulation**](#install)
 
   - [**Sample datasets**](#sample-daasets)
 
