@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>gtsam_ros</name>
+  <name>gnss_imu_fusion</name>
   <version>0.0.0</version>
   <description>The gnss_imu_fusion package</description>
 
