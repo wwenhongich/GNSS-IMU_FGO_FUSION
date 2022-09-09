@@ -15,22 +15,11 @@
 
 
  <!-- Parameters -->
-    <rosparam file="$(find gtsam_ros)/config/settings.yaml" command="load" />
-    <rosparam file="$(find gtsam_ros)/config/noise.yaml" command="load" />
+    <rosparam file="$(find gnss_imu_fusion)/config/settings.yaml" command="load" />
+    <rosparam file="$(find gnss_imu_fusion)/config/noise.yaml" command="load" />
   </node>
 
 <!--- Run Rviz-->
-<node name="rviz" pkg="rviz" type="rviz" args="-d $(find gtsam_ros)/launch/config/rviz.rviz"  />
-
- <!--- TRUTH -->
-<include file="$(find my_sam)/launch/run.launch"/>
-
- <!--- GNSS -->
-<include file="$(find gnss_sam)/launch/run.launch"/>
-
- <!--- ESKF -->
-<include file="$(find imu_gnss_fusion)/launch/imu_gnss_fusion.launch"/>
-
-
+<node name="rviz" pkg="rviz" type="rviz" args="-d $(find gnss_imu_fusion)/launch/config/rviz.rviz"  />
 
   </launch>
