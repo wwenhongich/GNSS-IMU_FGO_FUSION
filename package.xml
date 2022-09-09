@@ -2,7 +2,7 @@
 <package format="2">
   <name>gtsam_ros</name>
   <version>0.0.0</version>
-  <description>The gtsam_ros package</description>
+  <description>The gnss_imu_fusion package</description>
 
   <maintainer email="wwh19971023@163.com">wuwenhong</maintainer>
 
