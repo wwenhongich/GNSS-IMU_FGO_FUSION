@@ -11,7 +11,7 @@
 
   - [**Package install**](#install)
   
-  - [**Package Gazebo simulation**](#Gazebo simulation)
+  - [**Gazebo simulation**](#Gazebo simulation)
 
   - [**Run the package**](#run-the-package)
 
