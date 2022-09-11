@@ -1,6 +1,6 @@
 # GNSS/IMU fusion
 
-**GNSS/IMU loosely coupled fusion based on the factor graph. A video of the result can be found on [YouTube](https://youtu.be/1I6E1_3VOVo).**
+**GNSS/IMU loosely coupled fusion based on the factor graph. A video of the result can be found on [YouTube](https://youtu.be/xn7mffXxrPo).**
 
 
 ## Menu
