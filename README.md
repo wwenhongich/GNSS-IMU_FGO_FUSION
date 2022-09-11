@@ -11,9 +11,7 @@
 
   - [**Package install**](#install)
   
-  - [**Gazebo simulation**](#install)
-
-  - [**Sample datasets**](#sample-daasets)
+  - [**Gazebo simulation**](#Gazebo simulation)
 
   - [**Run the package**](#run-the-package)
 
@@ -40,7 +38,7 @@ cd ..
 catkin_make
 ```
 
-## Sample datasets
+## Gazebo simulation
 
 
 ## Run the package
