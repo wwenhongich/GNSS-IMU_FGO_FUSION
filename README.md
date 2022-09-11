@@ -1,6 +1,6 @@
 # GNSS/IMU fusion
 
-**GNSS/IMU loosely coupled fusion based on the factor graph. A video of the result can be found on [YouTube](https://youtu.be/xn7mffXxrPo).We collect real GNSS and IMU on the Xiamen University campus.**
+**GNSS/IMU loosely coupled fusion based on the factor graph. A video of the result can be found on [YouTube](https://youtu.be/xn7mffXxrPo). We collect real GNSS and IMU on the Xiamen University campus.**
 
 **Authors:** Wenhong Wu, Xunyu Zhong, Xiaozhen Cui, and Dongjie Wu 
 
