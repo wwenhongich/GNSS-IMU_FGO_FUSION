@@ -11,7 +11,7 @@
 
   - [**Package install**](#install)
   
-  - [**Gazebo simulation**](#Gazebo simulation)
+  - [**Gazebo simulation**](#Gazebo_simulation)
 
   - [**Run the package**](#run-the-package)
 
@@ -38,7 +38,7 @@ cd ..
 catkin_make
 ```
 
-## Gazebo simulation
+## Gazebo_simulation
 
 
 ## Run the package
