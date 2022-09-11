@@ -3,14 +3,8 @@
   <name>gnss_imu_fusion</name>
   <version>0.0.0</version>
   <description>The gnss_imu_fusion package</description>
-
   <maintainer email="wwh19971023@163.com">wuwenhong</maintainer>
-
-
-
   <license>TODO</license>
-
-
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>roscpp</build_depend>
@@ -28,7 +22,6 @@
   <exec_depend>sensor_msgs</exec_depend>
   <exec_depend>std_msgs</exec_depend>
   <exec_depend>tf</exec_depend>
-
 
   <export>
 

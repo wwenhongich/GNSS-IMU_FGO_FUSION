@@ -1,8 +1,8 @@
 settings:
 
-  imu_topic: "/mti_g710/imu/data" 
-  gps_topic: "/beiyun/fix"
-
+  imu_topic: "/imu/data" 
+  gps_topic: "/sensor_msgs/NavSatFix"
+  odom_topic: "/gnss_imu_fgo"
 
   enable_linkstates: false
   map_frame_id : "map"
