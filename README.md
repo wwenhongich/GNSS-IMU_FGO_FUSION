@@ -21,8 +21,8 @@
 
 ## Dependency
 
-```
 - [gtsam](https://gtsam.org/get_started/) (Georgia Tech Smoothing and Mapping library)
+```
 git clone https://github.com/borglab/gtsam.git
 mkdir build && cd build
 cmake -DGTSAM_BUILD_WITH_MARCH_NATIVE=OFF ..
